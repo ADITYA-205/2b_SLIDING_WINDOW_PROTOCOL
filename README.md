@@ -1,4 +1,7 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+
+### NAME: S ADITYA
+### REG NO: 212223040007
 ## AIM:
 To implement the sliding window protocol using python
 
